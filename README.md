@@ -1,6 +1,6 @@
 # PrimeTrade MLOps Assignment
 
-## 🚀 Quick Start (Evaluator)
+## Quick Start (Evaluator)
 
 ```powershell
 docker build -t primetrade-pipeline .
